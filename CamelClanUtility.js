@@ -1,4 +1,4 @@
-{
+var CamelClanUtility = {
   "_format": "hh-sol-artifact-1",
   "contractName": "CamelClanUtility",
   "sourceName": "contracts/CamelUtilityNFT.sol",
